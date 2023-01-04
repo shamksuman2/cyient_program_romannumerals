@@ -79,7 +79,7 @@ namespace cyient.program
                 Console.WriteLine("Roman numeral is: " + romNum);
             }
             else
-                Console.WriteLine("Error: no a arabic number");
+                Console.WriteLine("Entered no is not arabic number");
         }
     }
 }
